@@ -6,6 +6,8 @@ This is the log of notable changes to EAS CLI and related packages.
 
 ### 🛠 Breaking changes
 
+- [build-tools] Use production mode for app config, prebuild, and Expo Doctor during EAS Build. ([#4180](https://github.com/expo/eas-cli/pull/4180) by [@ramonclaudio](https://github.com/ramonclaudio))
+
 ### 🎉 New features
 
 - [eas-cli] Add `--device` flag to `eas simulator` for selecting the virtual device to start. ([#4172](https://github.com/expo/eas-cli/pull/4172) by [@szdziedzic](https://github.com/szdziedzic))
